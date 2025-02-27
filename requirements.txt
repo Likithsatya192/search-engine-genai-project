@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-text-splitters
+python-dotenv
+wikipedia
+arxiv
+ipykernel
+faiss-cpu
+langchain-huggingface
+langchain-groq
+streamlit
+duckduckgo-search
